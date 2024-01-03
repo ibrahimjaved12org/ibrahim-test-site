@@ -1,0 +1,34 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahim-test-site"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahim-test-site"
+  },
+  "course_title": "ibrahim-test-site",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "105",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ibrahim-test-site"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "04c33511-4a3a-4616-84ef-7356eb34f84a",
+  "site_short_id": "ibrahim-test-site"
+}
