@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: download (1).jpeg
-uid: 94888b4f-4cb9-4775-b0ba-d2148218d27d
+uid: 1e43cc40-5f80-455c-aed9-ce91a9f7a94b
 video_files:
   archive_url: ''
   video_captions_file: ''
