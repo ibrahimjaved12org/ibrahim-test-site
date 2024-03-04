@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/ibrahim-test-site/download-1.jpeg
+file: /media/courses/124-ibrahim-test-site-spring-2026/download-1.jpeg
 file_size: 13419
 file_type: image/jpeg
 image_metadata:

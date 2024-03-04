@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/ibrahim-test-site/great_wave_off_kanagawa2.jpg
+file: /media/courses/124-ibrahim-test-site-spring-2026/great_wave_off_kanagawa2.jpg
 file_size: 35425
 file_type: image/jpeg
 image_metadata:
