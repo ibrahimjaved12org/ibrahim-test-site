@@ -1,9 +1,8 @@
 {
   "term": "Spring",
-  "year": "2020",
+  "year": "2026",
   "level": [
-    "Graduate",
-    "Non-Credit"
+    "Undergraduate"
   ],
   "topics": [],
   "legacy_uid": "",
@@ -12,24 +11,24 @@
     "website": "ibrahim-test-site"
   },
   "course_image": {
-    "content": "",
+    "content": "898b02eb-3e24-4b02-ab52-f0dd1f022cf8",
     "website": "ibrahim-test-site"
   },
-  "course_title": "ibrahim-test-site",
+  "course_title": "ibrahim test site",
   "hide_download": false,
-  "course_description": "**ibrahim-test-site**\n\n***publish*****Publish**",
+  "course_description": "ibrahim test site",
   "department_numbers": [
-    "1"
+    "2"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "101",
+  "primary_course_number": "124",
   "course_image_thumbnail": {
     "content": "",
     "website": "ibrahim-test-site"
   },
   "learning_resource_types": [
-    "Activity Assignments"
+    "Activity Assignments with Examples"
   ],
-  "site_uid": "c48bfa4d-9ea3-4f3f-b8b5-3b654c0957a0",
+  "site_uid": "97774257-af51-4d61-9ffb-9b92a6e88860",
   "site_short_id": "ibrahim-test-site"
 }
