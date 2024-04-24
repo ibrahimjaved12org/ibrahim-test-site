@@ -1,13 +1,9 @@
 leftnav:
-- identifier: acbede3c-9544-442e-8ec9-57e7b55995cb
-  name: Menu 2 RL
-  pageRef: /lists/rl-1
-  weight: 10
 - identifier: 190af9f1-5fa6-4c33-90f2-7ba320890dbb
   name: Menu 1 video gallery
   pageRef: /video_galleries/video-gallery
-  weight: 20
+  weight: 10
 - identifier: 41f2c865-b94a-4580-a3e4-20c256a2de17
   name: menu 3 sample video
   pageRef: /resources/sample-video_mp4
-  weight: 30
+  weight: 20
