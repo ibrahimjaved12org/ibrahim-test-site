@@ -5,7 +5,7 @@ draft: false
 title: page 2
 uid: 811bbe09-16d1-4b9f-a429-d13b5a0984bb
 ---
-page 2
+{{% resource_link "acbede3c-9544-442e-8ec9-57e7b55995cb" "RL 1" %}}page 2
 
 {{% resource_link "57f11836-9939-44f6-a01e-c722508e9d4a" "Great\_Wave\_off\_Kanagawa2.jpg" %}}
 
