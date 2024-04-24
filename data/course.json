@@ -1,8 +1,8 @@
 {
   "term": "Spring",
-  "year": "2026",
+  "year": "2023",
   "level": [
-    "Undergraduate"
+    "Graduate"
   ],
   "topics": [],
   "legacy_uid": "",
@@ -11,24 +11,26 @@
     "website": "ibrahim-test-site"
   },
   "course_image": {
-    "content": "898b02eb-3e24-4b02-ab52-f0dd1f022cf8",
+    "content": "57f11836-9939-44f6-a01e-c722508e9d4a",
     "website": "ibrahim-test-site"
   },
-  "course_title": "ibrahim test site",
+  "course_title": "ibrahim-test-site-99",
   "hide_download": false,
-  "course_description": "ibrahim test site",
+  "course_description": "ibrahim-test-site-99",
   "department_numbers": [
-    "2"
+    "1"
   ],
-  "extra_course_numbers": "",
-  "primary_course_number": "124",
+  "extra_course_numbers": "6.4220",
+  "primary_course_number": "101",
   "course_image_thumbnail": {
-    "content": "",
+    "content": "6cf189e6-5c93-48f0-96f5-37c4e8048350",
     "website": "ibrahim-test-site"
   },
   "learning_resource_types": [
-    "Activity Assignments with Examples"
+    "Activity Assignments with Examples",
+    "Activity Assignments",
+    "Demonstration Audio"
   ],
-  "site_uid": "97774257-af51-4d61-9ffb-9b92a6e88860",
+  "site_uid": "59c14546-ed3b-4acd-9221-179a0145e15d",
   "site_short_id": "ibrahim-test-site"
 }
