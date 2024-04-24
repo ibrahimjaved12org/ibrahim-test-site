@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/124-ibrahim-test-site-spring-2026/download.jpeg
+file: /media/courses/ibrahim-test-site/download.jpeg
 file_size: 11852
 file_type: image/jpeg
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: download.jpeg
-uid: 9abbd3e9-91a7-4206-ab5e-c1868c98271a
+uid: 6cf189e6-5c93-48f0-96f5-37c4e8048350
 video_files:
   archive_url: ''
   video_captions_file: ''
